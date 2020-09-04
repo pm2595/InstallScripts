@@ -1,4 +1,4 @@
-# Silent Install Firefox 
+﻿# Silent Install Firefox 
 # Download URL: https://www.mozilla.org/en-US/firefox/all/
 
 # Path for the workdir
